@@ -1,0 +1,22 @@
+.Table-navigation {
+    display: flex;
+    direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+
+    .Book-pagination {
+        margin: 5px;
+    }
+
+    .Filter-form  {
+        margin: 5px;
+    }
+}
+
+.Table-container {
+    .No-results {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+}
