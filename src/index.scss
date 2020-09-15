@@ -1,0 +1,11 @@
+/* import bootstrap to set changes */
+
+$theme-colors: (
+  "primary": #1D7874
+);
+
+@import "bootstrap/scss/bootstrap";
+
+body {
+  margin: 0;
+}
